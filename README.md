@@ -1,4 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Anastasia 👋</h1>
+<h3>- 🌱 I’m currently learning kotlin, python</h3>
+<h3>- 👀 I’m interested in android development</h3>
+<h3>- 🎓 Computer science student at Voronezh State University</h3>
+<h3>- 📫 How to reach me: t.me/bogdash3, ms.anastasia.bogdanova@gmail.com </h3>
+
+<h1>Languages and Tools:</h1>
+
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <!--
 **bogdash/bogdash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

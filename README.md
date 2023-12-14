@@ -3,11 +3,9 @@
 ### - 🌱 I’m currently learning kotlin, python
 ### - 👀 I’m interested in android development
 ### - 🎓 Computer science student at Voronezh State University
-### - 📫 How to reach me: 
+### - 📫 How to reach me:  <a href=«mailto:ms.anastasia.bogdanova@gmail.com»>ms.anastasia.bogdanova@gmail.com</a> or
 
  <a href= "https://t.me/bogdash3">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
- <a href= "ms.anastasia.bogdanova@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-
 # Languages and Tools:
 
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
